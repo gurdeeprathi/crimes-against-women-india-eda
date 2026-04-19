@@ -1,0 +1,12 @@
+1.Year-wise Trend of Total Crimes
+
+
+2.Which States Have the Most Crimes?
+
+3.Women (18+) vs Girls (under 18)
+
+4.Crime Type Breakdown in Top 5 States (Stacked Bar)
+
+
+5.Cyber Crimes vs Traditional Crimes by State
+
